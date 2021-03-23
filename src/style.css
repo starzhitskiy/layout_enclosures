@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+.main {
+  padding: 20px;
+}
+
+.text {
+  margin: 0;
+  background: #ddd;
+  border: 1px solid #e95d49;
+  padding: 10px;
+}
+
+.sction {
+  width: 350px;
+  box-sizing: border-box;
+  margin-bottom: 40px;
+}
+
+.yello {
+  padding: 10px;
+  background-color: #ffa500;
+  border: 1px solid #e95d49;
+}
+
+.blue {
+  padding: 10px;
+  background-color: #308dc0;
+  border: 1px solid #e95d49;
+}
